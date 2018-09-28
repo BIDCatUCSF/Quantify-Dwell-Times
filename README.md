@@ -1,6 +1,7 @@
 # Quantify-Dwell-Times
 
 Description:
+
 	Quantify Dwell Times measure how long tracked surfaces 
 	dwell in interactions with target surfaces. Quantify Dwell
 	Times identifies and quantifies interactions that a surface
@@ -13,6 +14,7 @@ Description:
 	in an Excel spreadsheet.
 
 Installation:
+
 	To make this function available to Imaris, copy this file into 
 	the XTensions folder in the Imaris installation folder, e.g., 
 	C:\ProgramFiles\Bitplane\Imaris x64 8.1.2\XTensions.
@@ -29,5 +31,6 @@ Execution:
 
 
 Output:
+
 	An xls spreadsheet that details the persistent interactions of the 
 	surface objects of interest.

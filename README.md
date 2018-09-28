@@ -18,7 +18,7 @@ Installation:
 	To make this function available to Imaris, copy this file into 
 	the XTensions folder in the Imaris installation folder, e.g., 
 	C:\ProgramFiles\Bitplane\Imaris x64 8.1.2\XTensions.
-  After copying this file to the XTensions folder and restarting Imaris, 
+	After copying this file to the XTensions folder and restarting Imaris, 
 	you can find this function in the 'Surfaces Function' menu, 
 	as well as in the 'Image Processing' menu under the 
 	Surfaces Functions group.

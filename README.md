@@ -25,9 +25,9 @@ Installation:
 
 Execution:
 
-1)Select the 'Tools' Icon in Imaris.
-2)From the list of extentions choose 'Quantify Dwell Times.'
-3)Choose surface 1 then choose surface 2
+	1)Select the 'Tools' Icon in Imaris.
+	2)From the list of extentions choose 'Quantify Dwell Times.'
+	3)Choose surface 1 then choose surface 2
 
 
 Output:
